@@ -1,1 +1,3 @@
 dawdfg rgefegreefrbef v
+gg
+“Это строка из основной ветки”
